@@ -1,4 +1,7 @@
 import { Route, Routes } from "react-router-dom";
+import HomePage from "./pages/home/HomePage";
+import SignUpPage from "./pages/auth/signup/SignUpPage";
+import LoginPage from "./pages/auth/login/LoginPage";
 
 function App() {
   return (
